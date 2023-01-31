@@ -1,5 +1,5 @@
 # Analysis of Applications on Google playstore from 2013 to 2019
-The Google Playstore is a digital platform and distribution developed and operated by Google. It is an official store for certified devices running on the Android operating system. is gotten from Kaggle. It contains all applications on the Google Play store from 2013-2019.
+The Google Playstore is a digital platform and distribution developed and operated by Google. It is an official store for certified devices running on the Android operating system. This dataset is  gotten from Kaggle. It contains of all the applications on the Google Play store from 2013-2019.
 
 ### Methodology
 #### Data Cleaning
